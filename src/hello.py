@@ -1,4 +1,4 @@
 def m():
-    print "hello"
+    print "Hello there!"
 
 m()
