@@ -1,4 +1,4 @@
-def m():
-    print "Hello there!"
+def Hello(name = 'there'):
+    print("Hello {0}".format(name))
 
-m()
+Hello('Andrew')
